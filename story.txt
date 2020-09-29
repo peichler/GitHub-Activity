@@ -1,3 +1,7 @@
 Once upon a time there boy. He grew up loving computer science, but one day tragedy struck.
 
 The boy was working to finish a CS400 project that was due in ten minutes... but his internet went out!
+
+The boy started panicking as the project accounted for a huge portion of his grade. He knocked on his neighbour's doors and asked them for help,
+but apparently their wifi had gone out too! Desperate, the boy rushed down to the nearest Starbucks. But sadly, by the time he finished his project
+he was way past the submission deadline. He then just bought his favourite coffee and went back home.
